@@ -1,0 +1,34 @@
+
+REQUÊTES
+IN PROGRESS	1.	Obtenir par province la/les divinités préférées.
+TO DO	2.	Obtenir le prix moyen de chaque équipement, indépendamment de la divinité, des pouvoirs et des décorations.
+TO DO	3.	Savoir quelles provinces préfèrent payer en Oberon d'or ou d'argent.
+TO DO	4.	Comparer la progression des ventes en Ægypte avec celle des autres provinces. L’objectif est de mettre en évidence l’intérêt ou non d’une action particulière à mener pour augmenter les ventes dans cette contrée.
+TO DO	5.	Comparer le calendrier des guerres avec les ventes par province. L’objectif est de contrôler s’il y a une relation ou non entre les deux.
+TO DO	6.	Rapprocher l’artisan (ou le binôme d’artisans) de la divinité en fonction du prix de vente.
+DONE	7.	Afficher la liste des ventes.
+DONE	8.	Trier la liste des ventes par lieu.
+DONE	9.	Trier la liste des ventes par valeur.
+DONE 	10.	Trier la liste des ventes par quantité.
+DONE	11.	Rechercher une vente.
+DONE	12.	Rechercher la liste des ventes par lieu.
+DONE	13.	Rechercher la liste des ventes par valeur.
+DONE	14.	Rechercher la liste des ventes par quantité.
+DONE	15.	Rechercher la liste des ventes par équipement.
+DONE	16.	Afficher le détail d'une vente. 
+
+	
+PROCEDURES
+	Procédure simple permettant d'ajouter de nouvelles ventes.
+	Procédure simple permettant d'ajouter de nouveaux produits. 
+
+DECLENCHEURS
+
+
+
+VUES
+	Vue simplifiée permettant de mettre en évidence la progression des ventes par artisan
+
+
+AUTRES
+	Une boîte à moustache représentant le total d’achat par province.
