@@ -1,0 +1,15 @@
+•	Chaque objet peut être créé par un ou deux artisans.
+•	Chaque objet peut avoir zéro à deux décorations.
+•	Chaque objet n’a qu’un pouvoir.
+•	Chaque vente ne peut avoir qu’un objet.
+•	Chaque vente a forcément une province.
+•	Chaque vente peut avoir une citée.
+•	Chaque vente a un prix.
+•	Chaque vente a une quantité.
+•	Chaque vente a une date constituée d’une année, d’un mois et d’un jour.
+•	Un mois possède une divinité.
+•	Une divinité peut être fêtée pendant plusieurs mois.
+•	Une province peut avoir des années de guerre.
+•	Une citée peut avoir des années de guerre.
+•	Une année n’est pas dédiée à seulement une seule province.
+•	Prix à l’unité lors de la vente.
