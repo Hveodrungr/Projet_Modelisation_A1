@@ -9,7 +9,7 @@
 - [R] Obtenir le prix moyen de chaque équipement, indépendamment de la divinité, des pouvoirs et des décorations.
 - [R] Savoir quelles provinces préfèrent payer en Oberon d'or ou d'argent.
 
-### DONE
+### DONE 11/16
 - [x] Une boîte à moustache représentant le total d’achat par province.
 - [x] Comparer le calendrier des guerres avec les ventes par province. L’objectif est de contrôler s’il y a une relation ou non entre les deux.
 - [x] Afficher la liste des ventes.
