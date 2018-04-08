@@ -1,7 +1,7 @@
 # Travail demandé pour [projet-modélisation](https://github.com/Sacrezar/Projet_Modelisation_A1)
 
 ### TODO Non assignée
-- [ ] Rapprocher l’artisan (ou le binôme d’artisans) de la divinité en fonction du prix de vente.
+
 
 ### IN PROGRESS
 - [R] Obtenir par province la/les divinités préférées.
@@ -10,6 +10,7 @@
 - [C] Procédure simple permettant d'ajouter de nouvelles ventes.
 - [C] Procédure simple permettant d'ajouter de nouveaux produits. 
 - [C] Vue simplifiée permettant de mettre en évidence la progression des ventes par artisan
+- [Y] Rapprocher l’artisan (ou le binôme d’artisans) de la divinité en fonction du prix de vente.
 
 ### DONE 12/20
 - [x] Une boîte à moustache représentant le total d’achat par province.
@@ -27,6 +28,7 @@
 - [x] Comparer la progression des ventes en Ægypte avec celle des autres provinces. L’objectif est de mettre en évidence l’intérêt ou non d’une action particulière à mener pour augmenter les ventes dans cette contrée.
 
 ### TODO Assignée INFO Complementaire
+- [Y] Rapprocher l’artisan (ou le binôme d’artisans) de la divinité en fonction du prix de vente.
 - [Y] Comparer la progression des ventes en Ægypte avec celle des autres provinces. L’objectif est de mettre en évidence l’intérêt ou non d’une action particulière à mener pour augmenter les ventes dans cette contrée.
 - [C] Procédure simple permettant d'ajouter de nouvelles ventes.
 - [C] Procédure simple permettant d'ajouter de nouveaux produits. 
