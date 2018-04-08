@@ -14,7 +14,7 @@ Dans le groupe de :
 - Romain D.
 - Clément B.
 
-Voir document Livrable_Projet_Modélisation pour plus d'informations.
+Voir document **_Livrable_Projet_Modélisation_** pour plus d'informations.
 
 
 
