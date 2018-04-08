@@ -11,7 +11,7 @@
 - [C] Procédure simple permettant d'ajouter de nouveaux produits. 
 - [C] Vue simplifiée permettant de mettre en évidence la progression des ventes par artisan
 
-### DONE 11/16
+### DONE 12/16
 - [x] Une boîte à moustache représentant le total d’achat par province.
 - [x] Comparer le calendrier des guerres avec les ventes par province. L’objectif est de contrôler s’il y a une relation ou non entre les deux.
 - [x] Afficher la liste des ventes.
