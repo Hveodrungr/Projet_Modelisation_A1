@@ -12,7 +12,7 @@
 - [C] Vue simplifiée permettant de mettre en évidence la progression des ventes par artisan
 
 
-### DONE 13/20
+### DONE 14/20
 - [x] Rapprocher l’artisan (ou le binôme d’artisans) de la divinité en fonction du prix de vente.
 - [x] Une boîte à moustache représentant le total d’achat par province.
 - [x] Comparer le calendrier des guerres avec les ventes par province. L’objectif est de contrôler s’il y a une relation ou non entre les deux.
