@@ -4,17 +4,17 @@
 
 Le projet consiste en :
 
-> Modélisation de la BDD
-> Création de la BDD
-> Maintenir & Gérer la BDD
+> 1. Modélisation de la BDD
+> 2. Création de la BDD
+> 3. Maintenir & Gérer la BDD
 
 Dans le groupe de :
-Youssef Z.
-Thomas S.
-Romain D.
-Clément B.
+- Youssef Z.
+- Thomas S.
+- Romain D.
+- Clément B.
 
-
+Voir document Livrable_Projet_Modélisation pour plus d'informations.
 
 
 
