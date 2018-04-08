@@ -1,5 +1,5 @@
 
-REQUÊTES
+REQUÊTES / SQL_Query_x
 
 1.	Obtenir par province la/les divinités préférées.
 2.	Obtenir le prix moyen de chaque équipement, indépendamment de la divinité, des pouvoirs et des décorations.
@@ -19,20 +19,15 @@ REQUÊTES
 16.	Afficher le détail d'une vente. 
 
 	
-PROCEDURES
+PROCEDURES / SQL_Proc_x
 
 1. 	Procédure simple permettant d'ajouter de nouvelles ventes.
 2. 	Procédure simple permettant d'ajouter de nouveaux produits. 
 
-DECLENCHEURS
+DECLENCHEURS / SQL_Trigger_x
 
 
 
-VUES
+VUES / SQL_View_x  
 
 1.	Vue simplifiée permettant de mettre en évidence la progression des ventes par artisan
-
-
-AUTRES
-
-1.	Une boîte à moustache représentant le total d’achat par province.
