@@ -15,6 +15,7 @@ Dans le groupe de :
 - Clément B.
 
 Voir document **_Livrable_Projet_Modélisation_** pour plus d'informations.
+_\( Travaille demandé [MD](https://github.com/Sacrezar/Projet_Modelisation_A1/blob/master/Maintenir-gerer_BDD/Travail_demande.md) \)_
 
 
 
