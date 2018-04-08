@@ -1,28 +1,28 @@
 
 REQUÊTES
 
-IN PROGRESS R	1.	Obtenir par province la/les divinités préférées.
-IN PROGRESS R	2.	Obtenir le prix moyen de chaque équipement, indépendamment de la divinité, des pouvoirs et des décorations.
-IN PROGRESS R	3.	Savoir quelles provinces préfèrent payer en Oberon d'or ou d'argent.
-TO DO		4.	Comparer la progression des ventes en Ægypte avec celle des autres provinces. L’objectif est de mettre en évidence l’intérêt ou non d’une action particulière à mener pour augmenter les ventes dans cette contrée.
-DONE Y		5.	Comparer le calendrier des guerres avec les ventes par province. L’objectif est de contrôler s’il y a une relation ou non entre les deux.
-TO DO		6.	Rapprocher l’artisan (ou le binôme d’artisans) de la divinité en fonction du prix de vente.
-DONE T		7.	Afficher la liste des ventes.
-DONE T		8.	Trier la liste des ventes par lieu.
-DONE T&Y	9.	Trier la liste des ventes par valeur.
-DONE T 		10.	Trier la liste des ventes par quantité.
-DONE T		11.	Rechercher une vente.
-DONE T		12.	Rechercher la liste des ventes par lieu.
-DONE T&Y	13.	Rechercher la liste des ventes par valeur.
-DONE T		14.	Rechercher la liste des ventes par quantité.
-DONE T		15.	Rechercher la liste des ventes par équipement.
-DONE T		16.	Afficher le détail d'une vente. 
+1.	Obtenir par province la/les divinités préférées.
+2.	Obtenir le prix moyen de chaque équipement, indépendamment de la divinité, des pouvoirs et des décorations.
+3.	Savoir quelles provinces préfèrent payer en Oberon d'or ou d'argent.
+4.	Comparer la progression des ventes en Ægypte avec celle des autres provinces. L’objectif est de mettre en évidence l’intérêt ou non d’une action particulière à mener pour augmenter les ventes dans cette contrée.
+5.	Comparer le calendrier des guerres avec les ventes par province. L’objectif est de contrôler s’il y a une relation ou non entre les deux.
+6.	Rapprocher l’artisan (ou le binôme d’artisans) de la divinité en fonction du prix de vente.
+7.	Afficher la liste des ventes.
+8.	Trier la liste des ventes par lieu.
+9.	Trier la liste des ventes par valeur.
+10.	Trier la liste des ventes par quantité.
+11.	Rechercher une vente.
+12.	Rechercher la liste des ventes par lieu.
+13.	Rechercher la liste des ventes par valeur.
+14.	Rechercher la liste des ventes par quantité.
+15.	Rechercher la liste des ventes par équipement.
+16.	Afficher le détail d'une vente. 
 
 	
 PROCEDURES
 
-TO DO C		1. 	Procédure simple permettant d'ajouter de nouvelles ventes.
-TO DO C		2. 	Procédure simple permettant d'ajouter de nouveaux produits. 
+1. 	Procédure simple permettant d'ajouter de nouvelles ventes.
+2. 	Procédure simple permettant d'ajouter de nouveaux produits. 
 
 DECLENCHEURS
 
@@ -30,9 +30,9 @@ DECLENCHEURS
 
 VUES
 
-TO DO C		1.	Vue simplifiée permettant de mettre en évidence la progression des ventes par artisan
+1.	Vue simplifiée permettant de mettre en évidence la progression des ventes par artisan
 
 
 AUTRES
 
-DONE C		1.	Une boîte à moustache représentant le total d’achat par province.
+1.	Une boîte à moustache représentant le total d’achat par province.
