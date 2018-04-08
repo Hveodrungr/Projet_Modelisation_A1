@@ -21,8 +21,8 @@ DONE T		16.	Afficher le détail d'une vente.
 	
 PROCEDURES
 
-TO DO		1. 	Procédure simple permettant d'ajouter de nouvelles ventes.
-TO DO		2. 	Procédure simple permettant d'ajouter de nouveaux produits. 
+TO DO C		1. 	Procédure simple permettant d'ajouter de nouvelles ventes.
+TO DO C		2. 	Procédure simple permettant d'ajouter de nouveaux produits. 
 
 DECLENCHEURS
 
@@ -30,7 +30,7 @@ DECLENCHEURS
 
 VUES
 
-TO DO		1.	Vue simplifiée permettant de mettre en évidence la progression des ventes par artisan
+TO DO C		1.	Vue simplifiée permettant de mettre en évidence la progression des ventes par artisan
 
 
 AUTRES
