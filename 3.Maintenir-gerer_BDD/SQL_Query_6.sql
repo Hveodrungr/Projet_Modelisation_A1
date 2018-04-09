@@ -9,4 +9,4 @@ INNER JOIN (    SELECT pointVente.ID_Vente as IDvente, CONCAT(MIN(creator.ID_Art
     FROM vente pointVente
     INNER JOIN creer creator ON creator.ID_Vente = pointVente.ID_Vente
     GROUP BY pointVente.ID_Vente) TeamArtisan ON TeamArtisan.IDvente = vente.ID_Vente
-GROUP BY TeamArtisan.`Artisan(s)
+GROUP BY TeamArtisan.`Artisan(s)`
